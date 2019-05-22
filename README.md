@@ -8,5 +8,5 @@ Scenario 3: Add Item to the cart and validate that same Item has been added succ
 
 Steps to open File:
 1. Need to Install PyCharm IDE
-2. Open the File and run the Program by Right Click and choose option 'Run<Filename>' or Ctrl+Shift+F10
+2. Open the File and run the Program by Right Click and choose option 'Run<Filename.py>' or Ctrl+Shift+F10
 3. Able to see all results will get printed below and all scripts run successfully
